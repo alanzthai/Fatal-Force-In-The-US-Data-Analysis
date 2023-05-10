@@ -27,3 +27,8 @@ early 2017-mid 2017 is the testing set.
 - Compare the total number of people killed per race. Compare the number of people killed per race as a proportion of respective races. What difference do you observe?
 
 ## Modeling and Question Answering
+
+- For this project we have chosen to use K-Nearest Neighbors, Neural Networks, and Linear Regression Algorithms to try and predict.
+- K-nearest neighbors: This is a simple algorithm for both regression and classification problems, which works by finding the K nearest samples to a given query point in the input feature space, and making predictions based   on the average (for regression) or mode (for classification) of their output values.
+- Neural Networks: This is a machine learning algorithm inspired by the structure of the brain. It consists of layers of interconnected neurons that learn to extract useful features from the input data and make predictions   based on them. The process of learning involves adjusting the weights of the connections between the neurons based on the errors between the predicted and actual values.
+- Linear regression: This is a simple algorithm for regression problems, which tries to find the best linear relationship between a set of input features and a continuous output variable. Linear regression works by minimizing the sum of squared differences between the predicted values and the actual values.
