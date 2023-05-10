@@ -1,6 +1,6 @@
 # CSE351 Final Project
 
-Contributors: [Leila Pan](https://github.com/leipan1), [Wesley Mui](https://github.com/wesleymui), Alan Thai
+Contributors: [Leila Pan](https://github.com/leipan1), [Wesley Mui](https://github.com/wesleymui), [Alan Thai](https://github.com/alanzthai)
 
 Link to presentation:
 
