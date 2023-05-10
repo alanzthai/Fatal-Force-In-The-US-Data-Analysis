@@ -2,7 +2,7 @@
 
 Contributors: [Leila Pan](https://github.com/leipan1), [Wesley Mui](https://github.com/wesleymui), [Alan Thai](https://github.com/alanzthai)
 
-Presentation: 
+Presentation: https://www.canva.com/design/DAFiiDWuo4c/isZK8SeW7PREGlsIqC-bCw/edit?utm_content=DAFiiDWuo4c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Background
 
