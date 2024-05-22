@@ -1,4 +1,4 @@
-# CSE351 Final Project
+# Fatal-Force-In-The-US-Data-Analysis
 
 Contributors: [Leila Pan](https://github.com/leipan1), [Wesley Mui](https://github.com/wesleymui), [Alan Thai](https://github.com/alanzthai)
 
